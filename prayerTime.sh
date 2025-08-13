@@ -2,7 +2,7 @@
 
 LAT=     #Your latitude
 LONG=    # Your longitude
-METHOD=2 # Calculation method (not an expert in this, make sure to do your own research if you wanna modify this, gemini pro said this was fine)
+METHOD=4 # Calculation method (not an expert in this, make sure to do your own research if you wanna modify this, gemini pro said this was fine)
 
 # Function to get prayer times and calculate next prayer
 get_next_prayer() {
