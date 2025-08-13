@@ -1,4 +1,4 @@
-# Time Till Next Prayer
+# Prayer Time
 A bash script that lives on the terminal that tells you when the next prayer is, works great when hooking it up to a keybind on a wm like hyprland
 
 # How to config for your own location
