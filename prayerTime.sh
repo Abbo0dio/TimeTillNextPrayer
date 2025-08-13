@@ -71,7 +71,7 @@ get_next_prayer() {
   minutes=$(((diff_seconds % 3600) / 60))
 
   # Return values
-  echo "$next_prayer|$next_time|$hours hours                                                           $minutes minutes"
+  echo "$next_prayer|$next_time|$hours hours $minutes minutes"
 }
 
 # Function to display large text using figlet
